@@ -32,5 +32,6 @@ public class _01MyProducerTest {
         System.out.println("Topic: "+topic1);
         System.out.println("Partition: "+ partition);
         producer.close();
+        //演示git
     }
 }
